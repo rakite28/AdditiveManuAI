@@ -1,0 +1,11 @@
+Flask
+Flask-Cors
+gunicorn
+easyocr
+openpyxl
+reportlab
+requests
+Pillow
+numpy
+torch
+torchvision
